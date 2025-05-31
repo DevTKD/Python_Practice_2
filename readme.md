@@ -32,7 +32,7 @@ This project isn't just about solving problems — it's about transforming how I
 📍 Current Status
     📆 Start Date: May 13, 2025
     📘 Book: "100 Exercises for Practicing Python" by Laurentine Masson
-    🔢 Current Progress: 9 / 100 exercises completed
+    🔢 Current Progress: 19 / 100 exercises completed
     ⏳ Goal: Finish by July 31, 2025
     🏁 Status: In Progress
 
